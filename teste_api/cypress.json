@@ -1,0 +1,13 @@
+{
+  "env": {
+    "URL": "https://api.openweathermap.org/data/2.5/",
+    "LOCAL": "Francisco Morato",
+    "LOCALINVALIDO": "00"
+  },
+  "viewportWidth": 1280,
+  "viewportHeight": 720,
+  "chromeWebSecurity": false,
+  "failOnStatusCode": false
+  
+  
+}
